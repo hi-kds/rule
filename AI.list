@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 PROCESS-NAME,msedgewebview2.exe
-DOMAIN-SUFFIX,https://claude.ai/chats
-DOMAIN-SUFFIX,https://claude.ai
-DOMAIN-SUFFIX,https://bing.com
+DOMAIN-SUFFIX,claude.ai/chats
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,bing.com
