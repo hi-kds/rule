@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,ai.com
 PROCESS-NAME,msedgewebview2.exe
 DOMAIN-SUFFIX,https://claude.ai/chats
 DOMAIN-SUFFIX,https://claude.ai
+DOMAIN-SUFFIX,https://bing.com
