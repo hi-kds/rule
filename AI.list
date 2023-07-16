@@ -41,5 +41,3 @@ PROCESS-NAME,msedgewebview2.exe
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX，anthropic.com
-DOMAIN-KEYWORD，claude
-DOMAIN-KEYWORD,bing
