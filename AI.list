@@ -38,5 +38,6 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 PROCESS-NAME,msedgewebview2.exe
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,claude.ai
+DOMAIN-KEYWORD,bing.com
+DOMAIN-KEYWORD，anthropic.com
