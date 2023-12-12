@@ -220,8 +220,6 @@
  DOMAIN-SUFFIX,eac-cdn.com
  DOMAIN-SUFFIX,easy.ac
  DOMAIN-SUFFIX,easyanticheat.net
- DOMAIN-SUFFIX,epicgames.com
- DOMAIN-SUFFIX,epicgames.dev
  DOMAIN-SUFFIX,fortnite.com
  DOMAIN-SUFFIX,helpshift.com
  DOMAIN-SUFFIX,paragon.com
@@ -267,7 +265,6 @@
  DOMAIN-SUFFIX,giratina.com
  DOMAIN-SUFFIX,gloryofheracles.com
  DOMAIN-SUFFIX,hackyourconsole.com
- DOMAIN-SUFFIX,kirbysepicyarn.com
  DOMAIN-SUFFIX,kirbysuperstarultra.com
  DOMAIN-SUFFIX,kyurem.com
  DOMAIN-SUFFIX,legendofzelda.cn
@@ -526,7 +523,6 @@
  DOMAIN-SUFFIX,xboxservices.com
  DOMAIN-SUFFIX,xboxstudios.com
  DOMAIN-SUFFIX,xbx.lv
- DOMAIN-KEYWORD,epicgames
  DOMAIN-KEYWORD,steambroadcast
  DOMAIN-KEYWORD,steamstore
  DOMAIN-KEYWORD,steamuserimages
